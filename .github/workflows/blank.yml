@@ -4,6 +4,9 @@
    echo:
      runs-on: ubuntu-latest
      steps:
-     - run: echo "hello anji"
+     - run: 
+            echo "hello anji"
+            echo "this is githubactions"
+     
 
      
